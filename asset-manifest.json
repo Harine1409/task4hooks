@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/task4hooks/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/task4hooks/static/js/main.587279f0.chunk.js",
+    "main.js.map": "/task4hooks/static/js/main.587279f0.chunk.js.map",
+    "runtime-main.js": "/task4hooks/static/js/runtime-main.1cdf1ae8.js",
+    "runtime-main.js.map": "/task4hooks/static/js/runtime-main.1cdf1ae8.js.map",
+    "static/js/2.413562dc.chunk.js": "/task4hooks/static/js/2.413562dc.chunk.js",
+    "static/js/2.413562dc.chunk.js.map": "/task4hooks/static/js/2.413562dc.chunk.js.map",
+    "static/js/3.472894e4.chunk.js": "/task4hooks/static/js/3.472894e4.chunk.js",
+    "static/js/3.472894e4.chunk.js.map": "/task4hooks/static/js/3.472894e4.chunk.js.map",
+    "index.html": "/task4hooks/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/task4hooks/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.413562dc.chunk.js.LICENSE.txt": "/task4hooks/static/js/2.413562dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cdf1ae8.js",
+    "static/js/2.413562dc.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.587279f0.chunk.js"
+  ]
+}
